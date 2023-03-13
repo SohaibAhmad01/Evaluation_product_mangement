@@ -1,0 +1,13 @@
+main {
+  min-height: 80vh;
+}
+
+.form {
+  width: 400px;
+  height: auto;
+}
+.formDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
